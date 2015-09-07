@@ -1,4 +1,4 @@
-.calculator{
+#calculator{
 	width: 250px;
 	height: 350px;
 	border: 3px solid gray;
@@ -21,7 +21,7 @@
 	color: #222;
 }
 
-#key{
+#keys{
 	width: 41px;
 	margin-left: 10px;
 	margin-bottom: 20px;
@@ -31,7 +31,7 @@
 	color: white;
 }
 
-#key:hover{
+#keys:hover{
 	background: gray;
 	font-weight: bold;
 }
