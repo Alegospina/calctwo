@@ -6,6 +6,7 @@
 	background: #70c2eb;
 	margin: 150px auto;
 	box-shadow: 0px 0px 30px gray;
+	border-radius: 10px;
 }
 
 #display{
